@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kad:home|Door43 (kad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kad|d43-kad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kad/archive/master.zip|d43-kad.zip]]
+
+**Recent Changes**
+{{changes>ns = kad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kad|Ethnologue data]]
+
